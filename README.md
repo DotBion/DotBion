@@ -14,6 +14,19 @@ Most days, that means teaching machines to learn, reason, and operate across LLM
 Occasionally, I make them reason, plan, and behave (with varying levels of success).
 
 ---
+### Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-000?logo=python"/>
+<img src="https://img.shields.io/badge/PyTorch-000?logo=pytorch"/>
+<img src="https://img.shields.io/badge/Transformers-000?logo=huggingface"/>
+<img src="https://img.shields.io/badge/AWS-000?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-000?logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-000?logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Snowflake-000"/>
+<img src="https://img.shields.io/badge/FastAPI-000?logo=fastapi"/>
+</p>
+---
 
 ### Featured Projects
 
@@ -89,9 +102,17 @@ Audio → structured insights pipeline.
 
 ---
 
-### Interests
+### Beat me at (if you can)
 
-Badminton · Swimming  
+<p>
+🏸 Badminton &nbsp;&nbsp; 🏊 Swimming
+</p>
+
+---
+
+### Beat me at (if you can)
+
+🏸 Badminton · 🏊 Swimming
 
 ---
 
