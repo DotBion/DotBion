@@ -31,9 +31,9 @@ The project was selected as a crowd favorite.
 
 ## Connect
 
-- LinkedIn: add your LinkedIn link here
-- Portfolio: add your portfolio link here
-- Email: add your email here
+- LinkedIn: https://www.linkedin.com/in/nobo
+- Portfolio: https://github.com/DotBion/
+- Email: nc3610@nyu.edu | nobodit12@gmail.com
 
 ## Visitor Count
 
