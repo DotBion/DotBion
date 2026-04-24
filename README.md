@@ -7,28 +7,28 @@ Machine Learning Engineer · GenAI Systems · MLOps · Software Development
 
 ### Hey!
 
-I build machine learning systems that turn messy, real-world data into decisions people can act on.  
+I build machine learning systems that turn messy, real-world data into decisions people can act on.
 
-Most days, that means teaching machines to learn, reason, and operate across LLM systems, MLOps pipelines, and software engineering workflows, getting models out of notebooks and into environments where they actually matter.
+My work focuses on LLM-driven systems, agentic workflows, and production ML — designing models that don’t just predict, but operate in real environments.
 
-Occasionally, I make them reason, plan, and behave (with varying levels of success).
+Most of my time goes into making systems reliable: moving models out of notebooks, integrating them with data pipelines, and ensuring they behave under real-world constraints.
 
 ---
 
 <p>
-<img src="https://img.shields.io/badge/Python-000?logo=python"/>
-<img src="https://img.shields.io/badge/PyTorch-000?logo=pytorch"/>
-<img src="https://img.shields.io/badge/Transformers-000?logo=huggingface"/>
-<img src="https://img.shields.io/badge/AWS-000?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Docker-000?logo=docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-000?logo=kubernetes"/>
-<img src="https://img.shields.io/badge/Snowflake-000"/>
-<img src="https://img.shields.io/badge/FastAPI-000?logo=fastapi"/>
+<img src="https://img.shields.io/badge/Python-111?logo=python"/>
+<img src="https://img.shields.io/badge/PyTorch-111?logo=pytorch"/>
+<img src="https://img.shields.io/badge/Transformers-111?logo=huggingface"/>
+<img src="https://img.shields.io/badge/AWS-111?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-111?logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-111?logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Snowflake-111"/>
+<img src="https://img.shields.io/badge/FastAPI-111?logo=fastapi"/>
 </p>
 
 ---
 
-### So you dont lose your way down my repos !
+### Selected Work
 
 <table>
 <tr>
@@ -36,12 +36,12 @@ Occasionally, I make them reason, plan, and behave (with varying levels of succe
 
 <h4><a href="https://github.com/DotBion/civic_lens">Civic Lens ↗</a></h4>
 
-<p>Agentic system using NYC Open Data.</p>
+<p>Agentic system built on NYC Open Data.</p>
 
 <ul>
 <li>Multi-source validation</li>
 <li>LLM reasoning + structured outputs</li>
-<li>Public-sector use</li>
+<li>Public-sector decision workflows</li>
 </ul>
 
 </td>
@@ -66,12 +66,12 @@ Occasionally, I make them reason, plan, and behave (with varying levels of succe
 
 <h4><a href="https://github.com/DotBion/fluffy-fishstick">FinPulse ↗</a></h4>
 
-<p>End-to-end MLOps pipeline.</p>
+<p>Production MLOps pipeline.</p>
 
 <ul>
 <li>Ray + MLflow</li>
 <li>Docker + Kubernetes</li>
-<li>Monitoring stack</li>
+<li>Monitoring + deployment</li>
 </ul>
 
 </td>
@@ -99,8 +99,6 @@ Occasionally, I make them reason, plan, and behave (with varying levels of succe
 🏸 Badminton · 🏊 Swimming
 
 ---
-
-### Reset my
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=DotBion&style=flat-square" />
