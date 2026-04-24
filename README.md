@@ -21,27 +21,35 @@ Occasionally, I make them reason, plan, and behave (with varying levels of succe
 <tr>
 <td width="50%">
 
-#### Civic Lens  
-🔗 https://github.com/DotBion/civic_lens  
+<h4>Civic Lens</h4>
+<a href="https://github.com/DotBion/civic_lens">View Repository</a>
 
+<p>
 Agentic system using NYC Open Data.
+</p>
 
-- Multi-source validation  
-- LLM reasoning + structured outputs  
-- Public-sector use  
+<ul>
+<li>Multi-source validation</li>
+<li>LLM reasoning + structured outputs</li>
+<li>Public-sector use</li>
+</ul>
 
 </td>
 
 <td width="50%">
 
-#### Agent-007  
-🔗 https://github.com/DotBion/mlcybersec  
+<h4>Agent-007</h4>
+<a href="https://github.com/DotBion/mlcybersec">View Repository</a>
 
+<p>
 Autonomous LLM system.
+</p>
 
-- Observe–reason–act loop  
-- Tool orchestration  
-- Stateful execution  
+<ul>
+<li>Observe–reason–act loop</li>
+<li>Tool orchestration</li>
+<li>Stateful execution</li>
+</ul>
 
 </td>
 </tr>
@@ -49,27 +57,35 @@ Autonomous LLM system.
 <tr>
 <td width="50%">
 
-#### FinPulse  
-🔗 https://github.com/DotBion/fluffy-fishstick  
+<h4>FinPulse</h4>
+<a href="https://github.com/DotBion/fluffy-fishstick">View Repository</a>
 
+<p>
 End-to-end MLOps pipeline.
+</p>
 
-- Ray + MLflow  
-- Docker + Kubernetes  
-- Monitoring stack  
+<ul>
+<li>Ray + MLflow</li>
+<li>Docker + Kubernetes</li>
+<li>Monitoring stack</li>
+</ul>
 
 </td>
 
 <td width="50%">
 
-#### Voice Summary  
-🔗 (add repo link)  
+<h4>Voice Summary (Heptagraph)</h4>
+<a href="https://github.com/DotBion/Heptagraph_Tandon">View Repository</a>
 
-Audio → structured insights.
+<p>
+Audio → structured insights pipeline.
+</p>
 
-- Whisper transcription  
-- LLM summarization  
-- Structured outputs  
+<ul>
+<li>Whisper transcription</li>
+<li>LLM summarization</li>
+<li>Structured outputs</li>
+</ul>
 
 </td>
 </tr>
