@@ -5,7 +5,7 @@ Machine Learning Engineer · GenAI Systems · MLOps · Software Development
 
 ---
 
-### About
+### Hey!
 
 I build machine learning systems that turn messy, real-world data into decisions people can act on.  
 
@@ -14,8 +14,6 @@ Most days, that means teaching machines to learn, reason, and operate across LLM
 Occasionally, I make them reason, plan, and behave (with varying levels of success).
 
 ---
-
-### Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/Python-000?logo=python"/>
@@ -30,7 +28,7 @@ Occasionally, I make them reason, plan, and behave (with varying levels of succe
 
 ---
 
-### Featured Projects
+### So you dont lose your way down my repos !
 
 <table>
 <tr>
@@ -102,7 +100,7 @@ Occasionally, I make them reason, plan, and behave (with varying levels of succe
 
 ---
 
-### Visitors
+### You're on #
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=DotBion&style=flat-square" />
