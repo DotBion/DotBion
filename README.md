@@ -34,13 +34,11 @@ Occasionally, I make them reason, plan, and behave (with varying levels of succe
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top" style="padding:16px;">
 
 <h4><a href="https://github.com/DotBion/civic_lens">Civic Lens ↗</a></h4>
 
-<p>
-Agentic system using NYC Open Data.
-</p>
+<p>Agentic system using NYC Open Data.</p>
 
 <ul>
 <li>Multi-source validation</li>
@@ -50,13 +48,11 @@ Agentic system using NYC Open Data.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top" style="padding:16px;">
 
 <h4><a href="https://github.com/DotBion/mlcybersec">Agent-007 ↗</a></h4>
 
-<p>
-Autonomous LLM system.
-</p>
+<p>Autonomous LLM system.</p>
 
 <ul>
 <li>Observe–reason–act loop</li>
@@ -68,13 +64,11 @@ Autonomous LLM system.
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top" style="padding:16px;">
 
 <h4><a href="https://github.com/DotBion/fluffy-fishstick">FinPulse ↗</a></h4>
 
-<p>
-End-to-end MLOps pipeline.
-</p>
+<p>End-to-end MLOps pipeline.</p>
 
 <ul>
 <li>Ray + MLflow</li>
@@ -84,13 +78,11 @@ End-to-end MLOps pipeline.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top" style="padding:16px;">
 
 <h4><a href="https://github.com/DotBion/Heptagraph_Tandon">Voice Summary (Heptagraph) ↗</a></h4>
 
-<p>
-Audio → structured insights pipeline.
-</p>
+<p>Audio → structured insights pipeline.</p>
 
 <ul>
 <li>Whisper transcription</li>
@@ -101,14 +93,6 @@ Audio → structured insights pipeline.
 </td>
 </tr>
 </table>
-
----
-
-### Beat me at (if you can)
-
-<p>
-🏸 Badminton &nbsp;&nbsp; 🏊 Swimming
-</p>
 
 ---
 
