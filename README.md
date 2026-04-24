@@ -14,6 +14,7 @@ Most days, that means teaching machines to learn, reason, and operate across LLM
 Occasionally, I make them reason, plan, and behave (with varying levels of success).
 
 ---
+
 ### Tech Stack
 
 <p>
@@ -26,6 +27,9 @@ Occasionally, I make them reason, plan, and behave (with varying levels of succe
 <img src="https://img.shields.io/badge/Snowflake-000"/>
 <img src="https://img.shields.io/badge/FastAPI-000?logo=fastapi"/>
 </p>
+
+---
+<img src="https://img.shields.io/badge/Python-111?logo=python"/>
 ---
 
 ### Featured Projects
