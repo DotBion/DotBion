@@ -9,7 +9,7 @@ Machine Learning Engineer · GenAI Systems · MLOps · Software Development
 
 I build machine learning systems that turn messy, real-world data into decisions people can act on.  
 
-Most days, that means teaching machines to learn, reason, and operate across LLM systems, MLOps pipelines, and software engineering workflows — getting models out of notebooks and into environments where they actually matter.
+Most days, that means teaching machines to learn, reason, and operate across LLM systems, MLOps pipelines, and software engineering workflows, getting models out of notebooks and into environments where they actually matter.
 
 Occasionally, I make them reason, plan, and behave (with varying levels of success).
 
