@@ -100,13 +100,8 @@ Occasionally, I make them reason, plan, and behave (with varying levels of succe
 
 ---
 
-### You're on #
+### Reset my
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=DotBion&style=flat-square" />
-</p>
-
-<p>
-You made it to my list at #
 <img src="https://komarev.com/ghpvc/?username=DotBion&style=flat-square" />
 </p>
