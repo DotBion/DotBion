@@ -29,8 +29,6 @@ Occasionally, I make them reason, plan, and behave (with varying levels of succe
 </p>
 
 ---
-<img src="https://img.shields.io/badge/Python-111?logo=python"/>
----
 
 ### Featured Projects
 
