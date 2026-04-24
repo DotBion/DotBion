@@ -1,6 +1,6 @@
 <h1 align="left">Nobodit Choudhury</h1>
 <p align="left">
-Machine Learning Engineer · GenAI Systems · MLOps · Software Development
+Machine Learning Engineer · GenAI Systems · MLOps · Software Development · AI Research
 </p>
 
 ---
@@ -9,7 +9,7 @@ Machine Learning Engineer · GenAI Systems · MLOps · Software Development
 
 I build machine learning systems that turn messy, real-world data into decisions people can act on.
 
-My work focuses on LLM-driven systems, agentic workflows, and production ML — designing models that don’t just predict, but operate in real environments.
+My work focuses on LLM-driven systems, agentic workflows, and production ML designing models that don’t just predict, but operate in real environments.
 
 Most of my time goes into making systems reliable: moving models out of notebooks, integrating them with data pipelines, and ensuring they behave under real-world constraints.
 
