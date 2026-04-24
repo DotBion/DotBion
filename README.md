@@ -1,28 +1,8 @@
-<h1 align="left">Nobodit Choudhury</h1>
-<p align="left">
-Machine Learning Engineer · GenAI Systems · MLOps · Software Development
-</p>
-
----
-
-### About
-
-I build machine learning systems that turn messy, real-world data into decisions people can act on.  
-
-Most days, that means teaching machines to learn, reason, and operate across LLM systems, MLOps pipelines, and software engineering workflows — getting models out of notebooks and into environments where they actually matter.
-
-Occasionally, I make them reason, plan, and behave (with varying levels of success).
-
----
-
-### Featured Projects
-
 <table>
 <tr>
 <td width="50%">
 
-<h4>Civic Lens</h4>
-<a href="https://github.com/DotBion/civic_lens">View Repository</a>
+<h4><a href="https://github.com/DotBion/civic_lens">Civic Lens</a></h4>
 
 <p>
 Agentic system using NYC Open Data.
@@ -38,8 +18,7 @@ Agentic system using NYC Open Data.
 
 <td width="50%">
 
-<h4>Agent-007</h4>
-<a href="https://github.com/DotBion/mlcybersec">View Repository</a>
+<h4><a href="https://github.com/DotBion/mlcybersec">Agent-007</a></h4>
 
 <p>
 Autonomous LLM system.
@@ -57,8 +36,7 @@ Autonomous LLM system.
 <tr>
 <td width="50%">
 
-<h4>FinPulse</h4>
-<a href="https://github.com/DotBion/fluffy-fishstick">View Repository</a>
+<h4><a href="https://github.com/DotBion/fluffy-fishstick">FinPulse</a></h4>
 
 <p>
 End-to-end MLOps pipeline.
@@ -74,8 +52,7 @@ End-to-end MLOps pipeline.
 
 <td width="50%">
 
-<h4>Voice Summary (Heptagraph)</h4>
-<a href="https://github.com/DotBion/Heptagraph_Tandon">View Repository</a>
+<h4><a href="https://github.com/DotBion/Heptagraph_Tandon">Voice Summary (Heptagraph)</a></h4>
 
 <p>
 Audio → structured insights pipeline.
@@ -90,11 +67,3 @@ Audio → structured insights pipeline.
 </td>
 </tr>
 </table>
-
----
-
-### Visitors
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=DotBion&style=flat-square" />
-</p>
