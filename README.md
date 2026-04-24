@@ -1,6 +1,8 @@
 <h1 align="left">Nobodit Choudhury</h1>
 <p align="left">
 Machine Learning Engineer · GenAI Systems · MLOps · Software Development · AI Research
+<br>
+<i>DotBion — an anagram, now a system.</i>
 </p>
 
 ---
