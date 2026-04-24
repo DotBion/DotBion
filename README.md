@@ -1,13 +1,9 @@
-<h1 align="center">Nobodit Choudhury</h1>
-<p align="center">
-Machine Learning Engineer · GenAI Systems · MLOps · Scientific Computing
+<h1 align="left">Nobodit Choudhury</h1>
+<p align="left">
+Machine Learning Engineer · GenAI Systems · MLOps · Software Development
 </p>
 
-<p align="center">
-MS Computer Engineering — NYU Tandon  
-</p>
-
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=DotBion&style=flat-square" />
 </p>
 
@@ -15,16 +11,18 @@ MS Computer Engineering — NYU Tandon
 
 ### About
 
-I build production-grade machine learning systems that integrate real-world data, agentic reasoning, and scalable infrastructure.
+I build machine learning systems that turn messy, real-world data into decisions people can act on.  
 
-My focus lies in **LLM systems, MLOps pipelines, and scientific/healthcare AI**, with an emphasis on deployment, reliability, and measurable impact.
+Most days, that means teaching machines to learn, reason, and operate across LLM systems, MLOps pipelines, and software engineering workflows getting models out of notebooks and into environments where they actually matter.
+
+Occasionally, I make them reason, plan and behave (with varying levels of success).
 
 ---
 
 ### Featured Projects
 
 #### Civic Lens — AI Civic Advocacy Engine  
-🔗 [Repo Link](https://github.com/DotBion/Civic-Lens)
+🔗 [Repo Link]([https://github.com/DotBion/Civic-Lens](https://github.com/DotBion/civic_lens))
 
 Agentic system using NYC Open Data to convert civic requests into validated, policy-ready advocacy outputs.
 
@@ -35,7 +33,7 @@ Agentic system using NYC Open Data to convert civic requests into validated, pol
 ---
 
 #### Agent-007 — Autonomous LLM System  
-🔗 [Repo Link](https://github.com/DotBion/Agent-007)
+🔗 [Repo Link]([https://github.com/DotBion/Agent-007](https://github.com/DotBion/mlcybersec))
 
 Agentic AI system built on an observe–reason–act loop.
 
@@ -46,7 +44,7 @@ Agentic AI system built on an observe–reason–act loop.
 ---
 
 #### FinPulse — MLOps Stock Prediction System  
-🔗 [Repo Link](https://github.com/DotBion/FinPulse)
+🔗 [Repo Link]([https://github.com/DotBion/FinPulse](https://github.com/DotBion/fluffy-fishstick))
 
 End-to-end production ML pipeline.
 
@@ -57,7 +55,7 @@ End-to-end production ML pipeline.
 ---
 
 #### Voice Summary System  
-🔗 [Repo Link](https://github.com/DotBion/Voice-Summary)
+🔗 [Repo Link]([https://github.com/DotBion/Voice-Summary](https://github.com/DotBion/Heptagraph_Tandon))
 
 Audio → structured insights pipeline.
 
