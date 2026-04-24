@@ -8,9 +8,9 @@ I build systems that connect real-world data with practical impact, including AI
 
 - Machine Learning Engineering
 - Generative AI and Agentic Workflows
+- Software Development
 - Data Engineering
 - Medical Imaging AI
-- Atmospheric and Environmental Data Science
 
 ## Featured Project
 
