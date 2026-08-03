@@ -34,38 +34,11 @@ Most of my time goes into making systems reliable: moving models out of notebook
 <tr>
 <td width="50%" valign="top" style="padding:16px;">
 
-<h4><a href="https://github.com/DotBion/civic_lens">Civic Lens ↗</a></h4>
-
-<p>Agentic system built on NYC Open Data.</p>
-
-<ul>
-<li>Multi-source validation</li>
-<li>LLM reasoning + structured outputs</li>
-<li>Public-sector decision workflows</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top" style="padding:16px;">
-
-<h4><a href="https://github.com/DotBion/mlcybersec">Agent-007 ↗</a></h4>
-
-<p>Autonomous LLM system.</p>
-
-<ul>
-<li>Observe–reason–act loop</li>
-<li>Tool orchestration</li>
-<li>Stateful execution</li>
-</ul>
-
-</td>
-</tr>
 
 <tr>
 <td width="50%" valign="top" style="padding:16px;">
 
 <h4><a href="https://github.com/DotBion/fluffy-fishstick">FinPulse ↗</a></h4>
-
 <p>Production MLOps pipeline.</p>
 
 <ul>
