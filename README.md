@@ -51,7 +51,7 @@ Most of my time goes into making systems reliable: moving models out of notebook
 
 <td width="50%" valign="top" style="padding:16px;">
 
-<h4><a href="https://github.com/DotBion/Heptagraph_Tandon">Voice Summary (Heptagraph) ↗</a></h4>
+<h4><a href="https://github.com/DotBion/Heptagraph_Tandon"> iSummarize ↗</a></h4>
 
 <p>Audio → structured insights pipeline.</p>
 
