@@ -38,7 +38,7 @@ Most of my time goes into making systems reliable: moving models out of notebook
 <tr>
 <td width="50%" valign="top" style="padding:16px;">
 
-<h4><a href="https://github.com/DotBion/fluffy-fishstick">FinPulse ↗</a></h4>
+<h4><a href="https://github.com/DotBion/fluffy-fishsticks">FinPulse ↗</a></h4>
 <p>Production MLOps pipeline.</p>
 
 <ul>
