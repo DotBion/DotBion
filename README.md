@@ -70,4 +70,5 @@ Most of my time goes into making systems reliable: moving models out of notebook
 ---
 
 
-![Profile views](https://komarev.com/ghpvc/?username=DotBion&label=Profile%20views&color=3b82f6&style=flat-square&v=2)
+
+![Profile views](https://hits.sh/github.com/DotBion.svg?style=flat-square)
