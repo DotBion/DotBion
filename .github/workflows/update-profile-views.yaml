@@ -1,0 +1,35 @@
+
+name: Update profile views badge
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 7 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Komarev counter
+        run: |
+          mkdir -p assets
+          curl --fail --silent --show-error \
+            --location --retry 3 \
+            "https://komarev.com/ghpvc/?username=DotBion&style=flat-square" \
+            -o assets/profile-views.svg
+          grep -q '<svg' assets/profile-views.svg
+
+      - name: Commit updated counter
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-views.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update profile views"
+            git push
+          fi
