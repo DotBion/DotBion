@@ -34,10 +34,6 @@ Most of my time goes into making systems reliable: moving models out of notebook
 <tr>
 <td width="50%" valign="top" style="padding:16px;">
 
-
-<tr>
-<td width="50%" valign="top" style="padding:16px;">
-
 <h4><a href="https://github.com/DotBion/fluffy-fishsticks">FinPulse ↗</a></h4>
 <p>Production MLOps pipeline.</p>
 
@@ -73,6 +69,5 @@ Most of my time goes into making systems reliable: moving models out of notebook
 
 ---
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=DotBion&style=flat-square" />
-</p>
+
+![Profile views](https://komarev.com/ghpvc/?username=DotBion&label=Profile%20views&color=3b82f6&style=flat-square&v=2)
