@@ -71,4 +71,5 @@ Most of my time goes into making systems reliable: moving models out of notebook
 
 
 
-![Profile views](assets/profile-views.svg)
+
+![Profile views](https://hits.sh/github.com/DotBion.svg?style=flat-square&label=Profile%20views&extraCount=392&color=007ec6)
