@@ -59,6 +59,21 @@ Most of my time goes into making systems reliable: moving models out of notebook
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4><a href="https://roadster-dash.vercel.app/">Roadster: The Ramp ↗</a></h4>
+
+<p>Browser-based 3D stunt-driving game.</p>
+
+<ul>
+<li>Three.js + TypeScript</li>
+<li>Custom vehicle physics</li>
+<li>Rocket thrusters + aerial stunts</li>
+</ul>
+
+</td>
+</tr>
 </table>
 
 ---
